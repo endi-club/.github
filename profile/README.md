@@ -22,6 +22,10 @@ We have a few projects in development which you can see below.
 
 ## 🔒 Private plugins
 Well, private and private. We release everything publicly on Github because, why not? These plugins *can technically* be used on your own server but they have been specifically developed for endi.club.
+### 🤝 Relationships
+> Our relationships plugin which handles friendships and so forth.
+>
+> [Source](https://github.com/endi-club/relationships)
 ### 🖇️ Endihub
 > Our hub plugin that does pretty much everything in the hub.
 >
